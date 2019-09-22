@@ -1,4 +1,4 @@
 Docker image
 ---------------------
 
-Dockerized environment to testing
+Dockerized environment
